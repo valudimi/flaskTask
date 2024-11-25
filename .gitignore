@@ -1,0 +1,5 @@
+.DS_Store
+.env/
+env/
+solv.py
+done_interactor.py
